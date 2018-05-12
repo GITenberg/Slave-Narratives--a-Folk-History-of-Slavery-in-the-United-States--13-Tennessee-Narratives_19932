@@ -1,0 +1,37 @@
+_repo: Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-States--13-Tennessee-Narratives_19932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Work Projects Administration
+    alias: Administration, Work Projects
+    gutenberg_agent_id: '3906'
+    url: http://www.gutenberg.org/2009/agents/3906
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Tennessee'
+- !lcc 'E300'
+- !lcsh 'Slave narratives -- Tennessee'
+- !lcsh 'Slaves -- Tennessee -- Biography'
+- !lcsh 'Slaves -- Tennessee -- Social conditions'
+- !lcsh 'African Americans -- Tennessee -- Biography'
+tableOfContents: Batson, Frances -- Casey, Julia -- Chappel, Cecelia -- Childress,
+  Wiley -- Falls, Robert -- Gaines, Rachel -- Goole, Frankie -- Gray, Precilla --
+  Greer, Jenny -- Grisham, Emma -- Hudson, Measy -- Hyde, Patsy -- Kannon, Ellis Ken
+  -- Martin, Scott -- Matthews, Ann -- Moore, Rev. John -- Moss, Andrew -- Moss, Mollie
+  -- Odell, Andy -- Parker, laura Ramsey -- Reece, Naisy -- Simpkins, Millie -- Star,
+  Joseph Leonidas -- Thomas, Dan -- Watkins, Sylvia -- Young, Narcissus.
+title: "Slave Narratives: a Folk History of Slavery in the United States\r\nFrom Interviews\
+  \ with Former Slaves\r\nTennessee Narratives"
+url: http://www.gutenberg.org/ebooks/19932
